@@ -1,0 +1,7 @@
+[Type] Short summary under 50 characters
+
+- Why is this change necessary?
+- How does it address the issue?
+- What side effects does this have?
+- [Type] can be [feature][bugfix][hotfix][docs]
+- [Type] should match the branch name. example feature/add-user-auth

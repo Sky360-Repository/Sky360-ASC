@@ -1,0 +1,3 @@
+[submodule "src/Aloha"]
+	path = src/Aloha
+	url = https://github.com/Sky360-Repository/Aloha.git
