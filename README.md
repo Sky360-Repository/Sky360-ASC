@@ -25,3 +25,5 @@ This page will walk you through
 - Installing OS and SDK
 - Setting up the development environment
 
+## Architecture
+This page defines the architecture for this module: [Architecture page](./docs/Architecture.md).
